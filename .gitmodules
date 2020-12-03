@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = thttps://github.com/mlkia/JavascriptFullstack.git
+[submodule "Server"]
+	path = Server
+	url = thttps://github.com/mlkia/JavascriptFullstack.git

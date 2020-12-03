@@ -1,0 +1,10 @@
+.dropdown-content {
+position: absolute;
+width: 170px;
+}
+
+.dropdown-value {
+  background-color:#e74c3c;
+  cursor: pointer;
+  transition: 0.5;
+}

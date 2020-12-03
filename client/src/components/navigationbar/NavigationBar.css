@@ -1,0 +1,50 @@
+.navigationBarContainer {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  background-color: white;
+  padding: 0.6%;
+}
+
+.signin{
+  grid-column: 10/10;
+  cursor: pointer;
+  height: 25px;
+  margin:25px 20px 0px 0px;
+  color: white;
+  border: white;
+}
+
+.signbutton{
+  grid-column: 10/10;
+  cursor: pointer;
+  background-color: #2ea44f;
+  height: 25px;
+  margin:25px 20px 0px 0px;
+  color: white;
+  border: white;
+}
+
+.signuplink{
+  grid-column: 9/10;
+  grid-row: 1/2;
+  margin: 25px;
+  cursor: pointer;
+}
+
+.navigationBarLogotype {
+  grid-column: 5/7;
+  cursor: pointer;
+}
+
+.search {
+  grid-column: 1;
+  align-items: center;
+  margin: 25px 0px 0px 20px;
+  height: 15px;
+}
+
+.fas{
+  font-size: 20px;
+  color: #424242;
+  margin: 25px 0px 0px 5px;
+}
